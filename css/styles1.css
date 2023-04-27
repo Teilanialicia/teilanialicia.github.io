@@ -1,0 +1,25 @@
+.top-text{
+    color: black;
+}
+
+body {
+    background-color: rgb(189, 228, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#cuteSeals {
+    color: yellowgreen;
+    text-decoration: underline;   
+}
+
+.lists {
+    font-weight: bold;
+    font-size: medium;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
